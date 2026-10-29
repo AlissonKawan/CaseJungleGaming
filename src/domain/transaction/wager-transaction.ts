@@ -270,7 +270,6 @@ export class WagerTransaction {
 
     if (
       (props.kind === WagerTransactionKind.Bet ||
-        props.kind === WagerTransactionKind.Loss ||
         props.kind === WagerTransactionKind.Opening) &&
       trimmedRef
     ) {
