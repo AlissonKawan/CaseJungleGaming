@@ -35,6 +35,7 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .agents
 AGENTS.md
 PROJECT_STATE.md
+docs/
 *.agent
 .claude
 .gemini
